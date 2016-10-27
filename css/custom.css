@@ -1,0 +1,49 @@
+svg {
+  font: 10px sans-serif;
+}
+
+.barRight rect {
+  fill: steelblue;
+}
+
+.barLeft rect {
+  fill: green;
+}
+
+.barLeft:hover rect,.barRight:hover rect {
+  fill: brown;
+}
+
+.value {
+  fill: black;
+}
+
+.label {
+  text-anchor: middle;
+}
+
+.axis {
+  shape-rendering: crispEdges;
+}
+
+.axis path {
+  stroke: none;
+}
+
+.xRight.axis line {
+  stroke: #fff;
+  stroke-opacity: .8;
+}
+
+.xLeft.axis line {
+  stroke: #fff;
+  stroke-opacity: .8;
+}
+
+.y.axis path {
+  stroke: black;
+}
+
+.domain{
+    fill:none
+}
