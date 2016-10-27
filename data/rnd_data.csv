@@ -1,0 +1,262 @@
+name,id,category,category_name,left,right
+Amazonas,91,opc_1,Option 1,44690,7382908.1
+Amazonas,91,opc_2,Option 2,284856,1019026
+Amazonas,91,opc_3,Option 3,21157,6387075.4
+Amazonas,91,opc_4,Option 4,133761,810873.2
+Amazonas,91,opc_5,Option 5,104383,899947.4
+Amazonas,91,opc_6,Option 6,137385,1913858.2
+Amazonas,91,opc_7,Option 7,249515,1398595.4
+Amazonas,91,opc_8,Option 8,174281,7693216.1
+Antioquia,5,opc_1,Option 1,149512,2971448.7
+Antioquia,5,opc_2,Option 2,326100,4650740.5
+Antioquia,5,opc_3,Option 3,158995,333960.4
+Antioquia,5,opc_4,Option 4,115772,665290.7
+Antioquia,5,opc_5,Option 5,241566,7347289.7
+Antioquia,5,opc_6,Option 6,238447,3342653.6
+Antioquia,5,opc_7,Option 7,42071,8741380.8
+Antioquia,5,opc_8,Option 8,339186,3238509.3
+Arauca,81,opc_1,Option 1,228365,9510557.6
+Arauca,81,opc_2,Option 2,140452,3222753.5
+Arauca,81,opc_3,Option 3,305792,5874333
+Arauca,81,opc_4,Option 4,19205,10023094.9
+Arauca,81,opc_5,Option 5,164228,3967240.6
+Arauca,81,opc_6,Option 6,242988,5656397
+Arauca,81,opc_7,Option 7,144447,1970117
+Arauca,81,opc_8,Option 8,281683,4723868.4
+ASAPSC,88,opc_1,Option 1,83829,3624359.7
+ASAPSC,88,opc_2,Option 2,249516,1132203.2
+ASAPSC,88,opc_3,Option 3,134556,2414080.8
+ASAPSC,88,opc_4,Option 4,130385,6437464.9
+ASAPSC,88,opc_8,Option 8,268278,1796494.7
+Atlántico,8,opc_1,Option 1,274524,8967646
+Atlántico,8,opc_2,Option 2,78001,3282314.7
+Atlántico,8,opc_3,Option 3,322629,7929057.1
+Atlántico,8,opc_4,Option 4,126599,3597393.5
+Atlántico,8,opc_5,Option 5,4794,10864785.6
+Atlántico,8,opc_6,Option 6,166108,10604740
+Atlántico,8,opc_7,Option 7,307051,1935776.4
+Atlántico,8,opc_8,Option 8,29068,10697862.2
+Bogotá,11,opc_1,Option 1,56224,10297378.5
+Bogotá,11,opc_2,Option 2,297215,6749843.9
+Bogotá,11,opc_3,Option 3,134084,506317.3
+Bogotá,11,opc_4,Option 4,134375,6966071.7
+Bogotá,11,opc_5,Option 5,143976,10537730.8
+Bogotá,11,opc_6,Option 6,178679,10374525.5
+Bogotá,11,opc_7,Option 7,114510,7091601.2
+Bogotá,11,opc_8,Option 8,277273,9418134.8
+Bolívar,13,opc_1,Option 1,92822,2221362.7
+Bolívar,13,opc_2,Option 2,157831,6963480.5
+Bolívar,13,opc_3,Option 3,107139,10265855.5
+Bolívar,13,opc_4,Option 4,54868,466307.4
+Bolívar,13,opc_5,Option 5,162381,912946.5
+Bolívar,13,opc_6,Option 6,275904,773507.2
+Bolívar,13,opc_7,Option 7,6984,10926062.1
+Bolívar,13,opc_8,Option 8,264322,9721473.6
+Boyacá,15,opc_1,Option 1,269328,8180929.3
+Boyacá,15,opc_2,Option 2,334588,9409907.5
+Boyacá,15,opc_3,Option 3,34281,5267932.4
+Boyacá,15,opc_4,Option 4,130517,3010904.1
+Boyacá,15,opc_5,Option 5,210965,5897067.1
+Boyacá,15,opc_6,Option 6,146577,9432403.8
+Boyacá,15,opc_7,Option 7,301410,1331672.8
+Boyacá,15,opc_8,Option 8,278568,1368992.4
+Caldas,17,opc_1,Option 1,63165,2634164.4
+Caldas,17,opc_2,Option 2,127765,2927542.1
+Caldas,17,opc_3,Option 3,32639,2579530.5
+Caldas,17,opc_4,Option 4,25630,7151463.6
+Caldas,17,opc_5,Option 5,238072,5275945.1
+Caldas,17,opc_6,Option 6,259478,7097031.1
+Caldas,17,opc_7,Option 7,291372,4802946.8
+Caldas,17,opc_8,Option 8,43108,5596597.4
+Caquetá,18,opc_1,Option 1,256730,7971697.1
+Caquetá,18,opc_2,Option 2,69611,8380335.4
+Caquetá,18,opc_3,Option 3,14281,9159296.2
+Caquetá,18,opc_4,Option 4,185675,2757700
+Caquetá,18,opc_5,Option 5,260299,9184161.7
+Caquetá,18,opc_6,Option 6,153311,5113341.7
+Caquetá,18,opc_7,Option 7,166127,4838114.8
+Caquetá,18,opc_8,Option 8,282261,6512186.9
+Casanare,85,opc_1,Option 1,339779,1334291.4
+Casanare,85,opc_2,Option 2,1124,4002543.6
+Casanare,85,opc_3,Option 3,169619,7907892.5
+Casanare,85,opc_4,Option 4,296884,1219891
+Casanare,85,opc_5,Option 5,162855,1422972.5
+Casanare,85,opc_6,Option 6,162473,7369692.5
+Casanare,85,opc_7,Option 7,312005,6930466.7
+Casanare,85,opc_8,Option 8,31236,5320734.9
+Cauca,19,opc_1,Option 1,11680,8002622.1
+Cauca,19,opc_2,Option 2,279382,5157107.2
+Cauca,19,opc_3,Option 3,113216,5703829.3
+Cauca,19,opc_4,Option 4,306075,1554462.4
+Cauca,19,opc_5,Option 5,248723,9688704.4
+Cauca,19,opc_6,Option 6,191546,6561283.4
+Cauca,19,opc_7,Option 7,4498,2729432.9
+Cauca,19,opc_8,Option 8,96324,6563462.6
+Cesar,20,opc_1,Option 1,21310,10699091.5
+Cesar,20,opc_2,Option 2,40438,6604874.6
+Cesar,20,opc_3,Option 3,179439,9502033.7
+Cesar,20,opc_4,Option 4,212109,7062235.5
+Cesar,20,opc_5,Option 5,177340,1891561.2
+Cesar,20,opc_6,Option 6,65136,2042090.1
+Cesar,20,opc_7,Option 7,322260,3115112
+Cesar,20,opc_8,Option 8,106516,10095834.3
+Chocó,27,opc_1,Option 1,215838,5964929
+Chocó,27,opc_2,Option 2,242269,4202871.6
+Chocó,27,opc_3,Option 3,103068,10809856.2
+Chocó,27,opc_4,Option 4,218772,10388503.3
+Chocó,27,opc_5,Option 5,175182,7939452.2
+Chocó,27,opc_6,Option 6,86905,202940.6
+Chocó,27,opc_7,Option 7,299347,543017.1
+Chocó,27,opc_8,Option 8,201111,7366129.3
+Córdoba,23,opc_1,Option 1,125409,6668819.8
+Córdoba,23,opc_2,Option 2,14977,4126919.2
+Córdoba,23,opc_3,Option 3,96820,782455.7
+Córdoba,23,opc_4,Option 4,217553,8658481.1
+Córdoba,23,opc_5,Option 5,255928,7484481.4
+Córdoba,23,opc_6,Option 6,302580,8865387.8
+Córdoba,23,opc_7,Option 7,255801,4262931
+Córdoba,23,opc_8,Option 8,133789,8272923
+Cundinamarca,25,opc_1,Option 1,326760,9996914.2
+Cundinamarca,25,opc_2,Option 2,69941,6434516.9
+Cundinamarca,25,opc_3,Option 3,181170,4399322.2
+Cundinamarca,25,opc_4,Option 4,67714,4271076.7
+Cundinamarca,25,opc_5,Option 5,2522,9755924.2
+Cundinamarca,25,opc_6,Option 6,208452,3901461.3
+Cundinamarca,25,opc_7,Option 7,207954,483043.2
+Cundinamarca,25,opc_8,Option 8,189414,1134338.6
+Guainía,94,opc_1,Option 1,76890,6533172.4
+Guainía,94,opc_2,Option 2,1383,7603234.8
+Guainía,94,opc_3,Option 3,298946,10778066.6
+Guainía,94,opc_4,Option 4,49965,5140433.8
+Guainía,94,opc_5,Option 5,70271,4192539.5
+Guainía,94,opc_6,Option 6,278641,1925074.8
+Guainía,94,opc_7,Option 7,304307,8448209.6
+Guainía,94,opc_8,Option 8,34099,8224165.9
+Guaviare,95,opc_1,Option 1,290759,635213.3
+Guaviare,95,opc_2,Option 2,146564,9454602.5
+Guaviare,95,opc_3,Option 3,101998,5773465.9
+Guaviare,95,opc_4,Option 4,295720,4320316.8
+Guaviare,95,opc_5,Option 5,316495,4936718.1
+Guaviare,95,opc_6,Option 6,247872,1453508.8
+Guaviare,95,opc_7,Option 7,17393,6006173.1
+Guaviare,95,opc_8,Option 8,46000,9176540.5
+Huila,41,opc_1,Option 1,185162,6555812
+Huila,41,opc_2,Option 2,95305,9621852.1
+Huila,41,opc_3,Option 3,204287,6357618.3
+Huila,41,opc_4,Option 4,128669,5474706.9
+Huila,41,opc_5,Option 5,101904,7595907.7
+Huila,41,opc_6,Option 6,285489,8992259.4
+Huila,41,opc_7,Option 7,232862,42576.7
+Huila,41,opc_8,Option 8,128713,4030593.6
+La Guajira,44,opc_1,Option 1,250088,544770.1
+La Guajira,44,opc_2,Option 2,232738,945512.9
+La Guajira,44,opc_3,Option 3,102836,8182161
+La Guajira,44,opc_4,Option 4,95822,9861517.6
+La Guajira,44,opc_5,Option 5,96934,9030268.3
+La Guajira,44,opc_6,Option 6,307067,2281852.6
+La Guajira,44,opc_7,Option 7,217894,7275968.8
+La Guajira,44,opc_8,Option 8,2764,10542073.8
+Magdalena,47,opc_1,Option 1,239980,10525658.9
+Magdalena,47,opc_2,Option 2,249850,3710090.2
+Magdalena,47,opc_3,Option 3,12601,7527405.8
+Magdalena,47,opc_4,Option 4,99684,10539860.7
+Magdalena,47,opc_5,Option 5,339654,725183.7
+Magdalena,47,opc_6,Option 6,15004,2601213.1
+Magdalena,47,opc_7,Option 7,133676,457894.7
+Magdalena,47,opc_8,Option 8,260869,10002288.6
+Meta,50,opc_1,Option 1,261954,10748220.8
+Meta,50,opc_2,Option 2,64393,239400
+Meta,50,opc_3,Option 3,129390,3100458.7
+Meta,50,opc_4,Option 4,207806,3373894.8
+Meta,50,opc_5,Option 5,27554,764584.4
+Meta,50,opc_6,Option 6,146988,5993661.2
+Meta,50,opc_7,Option 7,298262,2486191
+Meta,50,opc_8,Option 8,10321,9099198.3
+Nariño,52,opc_1,Option 1,266674,7802189.2
+Nariño,52,opc_2,Option 2,150406,1659022.7
+Nariño,52,opc_3,Option 3,165411,7305850.4
+Nariño,52,opc_4,Option 4,211230,3270902.3
+Nariño,52,opc_5,Option 5,271060,6669635.1
+Nariño,52,opc_6,Option 6,165568,1160632.8
+Nariño,52,opc_7,Option 7,70117,1249373
+Nariño,52,opc_8,Option 8,267797,9655563.2
+Norte de Santander,54,opc_1,Option 1,265938,4812356
+Norte de Santander,54,opc_2,Option 2,6443,5230134.5
+Norte de Santander,54,opc_3,Option 3,151222,2144955
+Norte de Santander,54,opc_4,Option 4,94403,5827022.5
+Norte de Santander,54,opc_5,Option 5,207121,4893157.4
+Norte de Santander,54,opc_6,Option 6,155098,9944104.9
+Norte de Santander,54,opc_7,Option 7,73594,3706024.9
+Norte de Santander,54,opc_8,Option 8,271724,5560656.9
+Putumayo,86,opc_1,Option 1,157642,10198771.6
+Putumayo,86,opc_2,Option 2,245660,5397078.7
+Putumayo,86,opc_3,Option 3,89375,9280750.2
+Putumayo,86,opc_4,Option 4,80327,3571359
+Putumayo,86,opc_5,Option 5,241249,2776764.2
+Putumayo,86,opc_6,Option 6,155757,4649627.2
+Putumayo,86,opc_7,Option 7,111755,736292.6
+Putumayo,86,opc_8,Option 8,284037,10335312
+Quindío,63,opc_1,Option 1,133323,9248025.8
+Quindío,63,opc_2,Option 2,43093,6258552.5
+Quindío,63,opc_3,Option 3,72716,315201.7
+Quindío,63,opc_4,Option 4,60408,4505703
+Quindío,63,opc_5,Option 5,174731,928341
+Quindío,63,opc_6,Option 6,330849,199343.2
+Quindío,63,opc_7,Option 7,251443,7659355.6
+Quindío,63,opc_8,Option 8,116900,9600907.2
+Risaralda,66,opc_1,Option 1,336827,8347215.2
+Risaralda,66,opc_2,Option 2,339681,4675571.6
+Risaralda,66,opc_3,Option 3,192472,1652722.4
+Risaralda,66,opc_4,Option 4,180130,7057267.5
+Risaralda,66,opc_5,Option 5,261379,7219150.7
+Risaralda,66,opc_6,Option 6,231681,3874927.2
+Risaralda,66,opc_7,Option 7,149752,8629642.9
+Risaralda,66,opc_8,Option 8,20651,8579668
+Santander,68,opc_1,Option 1,329867,2631660.3
+Santander,68,opc_2,Option 2,127512,10210155.8
+Santander,68,opc_3,Option 3,221931,2921947.1
+Santander,68,opc_4,Option 4,296122,10497390.2
+Santander,68,opc_5,Option 5,263681,9370901.3
+Santander,68,opc_6,Option 6,7037,6048094.7
+Santander,68,opc_7,Option 7,338563,4827819.1
+Santander,68,opc_8,Option 8,203489,9071723.2
+Sucre,70,opc_1,Option 1,260546,2024068.5
+Sucre,70,opc_2,Option 2,92312,2606037.5
+Sucre,70,opc_3,Option 3,311647,8534018.7
+Sucre,70,opc_4,Option 4,154554,953148.3
+Sucre,70,opc_5,Option 5,69785,2780680.1
+Sucre,70,opc_6,Option 6,321064,9767395.8
+Sucre,70,opc_7,Option 7,275945,5491413.2
+Sucre,70,opc_8,Option 8,26801,1405934.3
+Tolima,73,opc_1,Option 1,196611,2818056.5
+Tolima,73,opc_2,Option 2,129963,8017430.5
+Tolima,73,opc_3,Option 3,28934,675860.1
+Tolima,73,opc_4,Option 4,15539,2209513
+Tolima,73,opc_5,Option 5,98294,8572656.4
+Tolima,73,opc_6,Option 6,114952,2511426.3
+Tolima,73,opc_7,Option 7,186213,4334637.1
+Tolima,73,opc_8,Option 8,180818,4320836.3
+Valle del Cauca,76,opc_1,Option 1,24520,350281.3
+Valle del Cauca,76,opc_2,Option 2,162066,8815617.5
+Valle del Cauca,76,opc_3,Option 3,255268,6382680.5
+Valle del Cauca,76,opc_4,Option 4,121243,10480494.4
+Valle del Cauca,76,opc_5,Option 5,185557,10163263
+Valle del Cauca,76,opc_6,Option 6,93562,3022877.6
+Valle del Cauca,76,opc_7,Option 7,85961,2955842.5
+Valle del Cauca,76,opc_8,Option 8,108576,7077959.7
+Vaupés,97,opc_1,Option 1,168803,3373873.7
+Vaupés,97,opc_2,Option 2,190974,6157634.1
+Vaupés,97,opc_3,Option 3,322629,7119907.8
+Vaupés,97,opc_4,Option 4,304910,8624287.5
+Vaupés,97,opc_5,Option 5,94617,6782438.4
+Vaupés,97,opc_6,Option 6,151739,6081668.7
+Vaupés,97,opc_7,Option 7,244972,2319883.9
+Vaupés,97,opc_8,Option 8,311117,824097.9
+Vichada,99,opc_1,Option 1,177629,6759872.4
+Vichada,99,opc_2,Option 2,247213,7576863
+Vichada,99,opc_3,Option 3,288525,8619653.3
+Vichada,99,opc_4,Option 4,158411,6878665
+Vichada,99,opc_5,Option 5,265561,174657.6
+Vichada,99,opc_6,Option 6,112755,1033971.4
+Vichada,99,opc_7,Option 7,258210,8276810.2
+Vichada,99,opc_8,Option 8,67616,10675715.4
