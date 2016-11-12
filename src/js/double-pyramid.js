@@ -214,9 +214,7 @@ var double_pyramid = {
 	};
 	// ... to be continue
 	graph.setInitVars();
-	
-	
-		
+			
 	// Arrange data
 	graph.loadData(data_url);
 	graph.timeout =  setTimeout(function() {
@@ -237,5 +235,8 @@ var oas;
 $(document).ready(function(){
     var graph = double_pyramid.generate('data/rnd_data.csv','graph','menu');
     oas = graph;
+    window.onresize = function(event){
+	graph.resize();
+    }
 });
 
